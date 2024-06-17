@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/workhome-one/static/css/main.073c9b0a.css",
+    "main.js": "/workhome-one/static/js/main.bb16ad6c.js",
+    "static/js/787.177e23c2.chunk.js": "/workhome-one/static/js/787.177e23c2.chunk.js",
+    "index.html": "/workhome-one/index.html",
+    "main.073c9b0a.css.map": "/workhome-one/static/css/main.073c9b0a.css.map",
+    "main.bb16ad6c.js.map": "/workhome-one/static/js/main.bb16ad6c.js.map",
+    "787.177e23c2.chunk.js.map": "/workhome-one/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bb16ad6c.js"
+  ]
+}
