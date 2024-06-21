@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/workhome-one/static/css/main.073c9b0a.css",
-    "main.js": "/workhome-one/static/js/main.6c97d466.js",
-    "static/js/787.177e23c2.chunk.js": "/workhome-one/static/js/787.177e23c2.chunk.js",
-    "index.html": "/workhome-one/index.html",
-    "main.073c9b0a.css.map": "/workhome-one/static/css/main.073c9b0a.css.map",
-    "main.6c97d466.js.map": "/workhome-one/static/js/main.6c97d466.js.map",
-    "787.177e23c2.chunk.js.map": "/workhome-one/static/js/787.177e23c2.chunk.js.map"
+    "main.css": "/workhome-two/static/css/main.073c9b0a.css",
+    "main.js": "/workhome-two/static/js/main.c9fb2688.js",
+    "static/js/787.177e23c2.chunk.js": "/workhome-two/static/js/787.177e23c2.chunk.js",
+    "index.html": "/workhome-two/index.html",
+    "main.073c9b0a.css.map": "/workhome-two/static/css/main.073c9b0a.css.map",
+    "main.c9fb2688.js.map": "/workhome-two/static/js/main.c9fb2688.js.map",
+    "787.177e23c2.chunk.js.map": "/workhome-two/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6c97d466.js"
+    "static/js/main.c9fb2688.js"
   ]
 }
